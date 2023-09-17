@@ -1,4 +1,4 @@
-# Facility Flow
+# FacilityFlow
 * for HackSMU
 <br>
 (this xcode project was initially created to test out CreateML and CoreML but i ended up coding it all on here, so please disregrard the xcode project file name 🙏)
