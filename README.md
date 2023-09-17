@@ -10,6 +10,7 @@ Click on the green "code" button -> Click "Open with XCode" -> Clone
 Once you're in Github, click make sure you select an appropriate device size (I recommend iPhone 12 and up for the best experience). Then, click the play button to run the simulator!
 <br>
 Device:
+<br>
 <img width="911" alt="Screenshot 2023-09-17 at 11 07 11 AM" src="https://github.com/snehab2/Facility-Flow/assets/86683361/41e37d5e-3d17-4a75-a6f3-6e9f32035bc0">
 <br>
 Simulator: 
