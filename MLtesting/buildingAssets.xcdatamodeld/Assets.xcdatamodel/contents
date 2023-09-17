@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22D68" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Asset" representedClassName="Asset" syncable="YES" codeGenerationType="class">
+        <attribute name="assetType" attributeType="String"/>
+        <attribute name="floor" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="manufacturer" attributeType="String"/>
+        <attribute name="newDate" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="oldDate" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="operationalTime" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="repairs" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="room" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="servicingDate" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="workOrders" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+</model>
